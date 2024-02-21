@@ -6,3 +6,4 @@
 * Dependencias
     npm i react-router-dom@5
     npm i --save-dev @types/react-router-dom
+    npm i styled-components

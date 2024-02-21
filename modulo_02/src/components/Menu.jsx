@@ -1,13 +1,24 @@
 import { Link } from "react-router-dom"
 
+import { Header, Nav, Button } from "./style"
+
 export function Menu(){
     return(
-        <>
-            <ul>
+        <Header>
+
+            <Nav>
                 <Link to="/home">Home</Link>
                 <Link to="/contato">Contato</Link>
                 <Link to="/sobre">Sobre</Link>
-            </ul>
-        </>
+            </Nav>
+
+            <Button
+                cor="#00FF00"
+                tamanho={25}
+            >
+                Entrar
+            </Button>
+
+        </Header>
     )
 }
