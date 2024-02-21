@@ -7,3 +7,6 @@
     npm i react-router-dom@5
     npm i --save-dev @types/react-router-dom
     npm i styled-components
+
+    npm i styled-components --save-dev @types/react-router-dom
+    
