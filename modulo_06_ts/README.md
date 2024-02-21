@@ -1,4 +1,4 @@
-### Aula 53
-    https://www.udemy.com/course/nextjs-zero-ao-avancado/learn/lecture/27326252#questions/21113818
+### Aula 60
+    https://www.udemy.com/course/nextjs-zero-ao-avancado/learn/lecture/27326278#overview
 #### Dependencias
 * npm i sass
