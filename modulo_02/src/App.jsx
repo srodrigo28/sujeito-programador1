@@ -1,12 +1,9 @@
-import { Http01 } from "./Exercicios/Http/Http01"
+import Routes from "./routes"
 
 function App() {
 
-
   return (
-    <>
-      <Http01 />
-    </>
+      <Routes />
   )
 }
 
